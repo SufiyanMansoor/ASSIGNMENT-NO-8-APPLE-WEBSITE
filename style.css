@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+
+}
+.topnav{
+    overflow: hidden;
+    background-color: rgb(75, 72, 72);
+
+ 
+
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 12px 23px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .backgroundimg{
+    background-image: url('./IMAGES/firstdivimage.jpg');
+    padding: auto;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 600px;
+    width: 100%;
+
+    
+  }
+  .textcent{
+    padding-top: 20%;
+    text-align: center; 
+    font-size: 3em;
+    padding-right: auto;
+    padding-left: auto;
+ }
+ .font{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+ }
+ .order{
+  text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: gray;
+
+ }
+ .backgroundimg2
+ {
+  background-image: url('./IMAGES/hero_iphone15pro__i70z9oz3hj2i_medium.jpg');
+  padding: auto;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 600px;
+
+
+
+ }
+ .imgcent
+ {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+ }
+ .backgroundimg3{
+  background-image: url('./IMAGES/hero_iphone15_announce__uuemlcwczn6u_medium.jpg');
+  padding: auto;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 800px;
+
+
+ }
+ .image-container {
+  display: flex;
+
+}
+
+.image-container img {
+  width: 100%;
+  background-size: 100%;
+
+}
